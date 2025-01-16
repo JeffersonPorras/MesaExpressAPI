@@ -1,0 +1,2 @@
+mysql-connector-python  #Es el conector oficial para conectarnos a nuestra base de datos desde aplicaciones python
+flask #Es un microframework muy utilizado para construir APIs y aplicaciones web
