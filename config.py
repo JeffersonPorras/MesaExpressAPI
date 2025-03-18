@@ -4,5 +4,6 @@ DB_CONFIG = {
     "host": "localhost",
     "user": "root",
     "password": "",          # Cambia si tienes una contraseña
-    "database": "mesaexpress"
+    "database": "mesaexpress",
+    "port": 3306
 }
